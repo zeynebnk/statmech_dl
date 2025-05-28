@@ -1,7 +1,6 @@
 ## from PMI-SYSU
 
-from src.utils import *
-
+from utils import *
 
 def gen_field(P, D, N, λ0, device):
 
