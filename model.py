@@ -1,6 +1,6 @@
 ## from PMI-SYSU
 
-from src.utils import *
+from utils import *
 
 class SeparateSimpLinearAttn(nn.Module):
     def __init__(self, dim_embedding, d_k=None):
